@@ -1,4 +1,4 @@
-# Git-Spliwise - A GitHub Replica
+# A GitHub Replica
 
 A full-stack MERN application that replicates GitHub's core functionality with custom version control implementation from scratch. This project demonstrates a complete Git-like version control system with repository management, user authentication, and collaboration features.
 
